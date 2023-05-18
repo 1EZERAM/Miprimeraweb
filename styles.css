@@ -191,3 +191,8 @@ a {
   align-items: center;
   background-color: gray;
 }
+
+/*///////////ZONA DE ACTUALIZACIONES//////////////////////*/
+.greeting{
+  text-align: center;
+}
